@@ -1,0 +1,5 @@
+flask
+flask-caching
+requests
+spellchecker
+ratelimit
